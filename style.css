@@ -1,0 +1,22 @@
+body {
+    background-color: #ff4c68;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 3.5rem;
+    line-height: 1.5;
+    margin: 4% auto;
+    color: #fff;
+    font-weight: 700;
+}
+
+h2 {
+    line-height: 1.5;
+    color: #fff;
+}
+
+footer {
+    margin: 7% auto;
+}
